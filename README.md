@@ -1,5 +1,5 @@
 # T-1-Leon-HTML-CSS
-HTML and CSS Template One
+HTML and CSS Template 1
 
 ## Demo
 https://amr99mohammed99.github.io/T-1-Leon-HTML-CSS/
